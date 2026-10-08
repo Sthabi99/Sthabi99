@@ -24,7 +24,7 @@ I built the backend with **Java, Spring Boot and PostgreSQL**, used **Flyway** f
 | Testing | JUnit, Mockito, API and integration testing |
 | Delivery | Git, Docker, AWS, Linux |
 
-I use AI coding tools to help explore solutions and debug, then review the changes and test how they behave.
+
 
 ## More of my work
 
